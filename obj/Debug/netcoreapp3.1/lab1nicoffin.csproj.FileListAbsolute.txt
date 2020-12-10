@@ -1,0 +1,13 @@
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.AssemblyInfo.cs
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.exe
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.deps.json
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.runtimeconfig.json
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.runtimeconfig.dev.json
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.dll
+C:\Users\Noah\source\repos\lab1nicoffin\bin\Debug\netcoreapp3.1\lab1nicoffin.pdb
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.dll
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.pdb
+C:\Users\Noah\source\repos\lab1nicoffin\obj\Debug\netcoreapp3.1\lab1nicoffin.genruntimeconfig.cache
